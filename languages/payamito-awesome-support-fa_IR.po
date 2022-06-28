@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito:Awesome Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-13 23:44+0000\n"
+"PO-Revision-Date: 2022-01-18 18:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3\n"
+"X-Domain: payamito-awesome-support"
+
+#: includes/admin/class-settings.php:358
+msgid "  Agent first name"
+msgstr "نام کوچک پشتیبان"
+
+#: includes/admin/class-settings.php:368
+msgid "  Ticket link"
+msgstr "لینک تیکت"
+
+#: includes/admin/class-settings.php:373
+msgid " Admin email"
+msgstr "ایمیل ادمین"
+
+#: includes/admin/class-settings.php:359
+msgid " Agent last name"
+msgstr "نام خانوادگی پشتیبان"
+
+#: includes/admin/class-settings.php:366
+msgid " Author last name"
+msgstr "نام خانوادگی نویسنده"
+
+#: includes/admin/class-settings.php:372
+msgid " Date"
+msgstr "تاریخ"
+
+#: includes/class-plugins-required.php:69
+msgid ""
+" Plugin Payamito:Awesome Support requires the installation of Awesome "
+"Support and Payamito core "
+msgstr ""
+"افزونه ارسال پیامک پیامیتو نسخه تیکت برای نصب و کارکرد صحیح نیاز به افزونه "
+"هسته پیامیتو و افزونه تیکت است"
+
+#: includes/admin/class-settings.php:355
+msgid " Ticket id"
+msgstr "شناسه تیکت"
+
+#: includes/admin/class-settings.php:369
+msgid " Ticket url"
+msgstr "پیوند تیکت"
+
+#: includes/admin/class-settings.php:363
+msgid " User email"
+msgstr "ایمیل کاربر"
+
+#: includes/admin/class-settings.php:361
+msgid " User first name"
+msgstr "نام کوچک کاربر"
+
+#: includes/admin/class-settings.php:362
+msgid " User last name"
+msgstr "نام خانوادگی کاربر"
+
+#: includes/admin/class-settings.php:360
+msgid " User name"
+msgstr "نام کاربری"
+
+#: plugin.php:235
+#, php-format
+msgid ""
+"%s requires Awesome Support version %s or greater. Please update the awesome "
+"support plugin first."
+msgstr ""
+"افزونه ارسال پیامک پیامیتو نسخه تیکت برای نصب و کارکرد صحیح نیاز به افزونه "
+"تیکت است . لطفا افزونه تیکت فعال کنید"
+
+#: includes/admin/class-settings.php:55 includes/admin/class-settings.php:205
+#: includes/admin/class-settings.php:245 includes/admin/class-settings.php:300
+#: includes/admin/class-settings.php:503
+msgid "Active"
+msgstr "فعال"
+
+#: includes/admin/class-settings.php:196
+msgid "Admin"
+msgstr "مدیر"
+
+#: includes/admin/class-settings.php:439
+msgid "Admin email"
+msgstr "ایمیل ادمین"
+
+#: includes/admin/class-settings.php:200
+msgid "Administrator Message"
+msgstr "پیام تیکت مدیر"
+
+#: includes/admin/class-settings.php:292
+msgid "Agent"
+msgstr "پشتیبان"
+
+#: includes/admin/class-settings.php:400
+msgid "Agent first name"
+msgstr "نام کوچک پشتیبان"
+
+#: includes/admin/class-settings.php:403
+msgid "Agent last name"
+msgstr "نام خانوادگی پشتیبان"
+
+#: includes/admin/class-settings.php:307
+msgid ""
+"Agent meta key\n"
+"\t\t\t\t plugin"
+msgstr ""
+
+#: includes/admin/class-settings.php:357
+msgid "Agent name"
+msgstr "نام کاربری پشتیبان"
+
+#: includes/admin/class-settings.php:296
+msgid "Agent Ticket"
+msgstr "پیام تیکت پشتیبان"
+
+#: includes/admin/class-settings.php:206
+msgid "Are you want send sms to admin "
+msgstr "آیا می خواهید برای ادمین پیامک بفرستید"
+
+#: includes/admin/class-settings.php:301
+#, fuzzy
+#| msgid "Are you want send sms to agents "
+msgid "Are you want send sms to agent "
+msgstr "آیا می خواهید برای پشتیبان پیامک بفرستید"
+
+#: includes/admin/class-settings.php:246
+msgid "Are you want send sms to user "
+msgstr "آیا می خواهید برای کاربر پیامک بفرستید"
+
+#: includes/class-functions.php:43
+msgid "Assign"
+msgstr "اختصاص دادن"
+
+#: includes/admin/class-settings.php:367 includes/admin/class-settings.php:427
+msgid "Author email"
+msgstr "ایمیل نویسنده"
+
+#: includes/admin/class-settings.php:365 includes/admin/class-settings.php:421
+msgid "Author first name"
+msgstr "نام کوچک نویسنده"
+
+#: includes/admin/class-settings.php:424
+msgid "Author last name"
+msgstr "نام خانوادگی نویسنده"
+
+#: includes/admin/class-settings.php:364 includes/admin/class-settings.php:418
+msgid "Author name"
+msgstr "نام کاربری نویسنده"
+
+#: includes/class-functions.php:58
+msgid "Automatic Ticket Close "
+msgstr "بسته شدن خودکار"
+
+#: includes/admin/class-settings.php:40
+msgid "Awesome Support"
+msgstr " تیکت"
+
+#: plugin.php:167 plugin.php:181
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/admin/class-settings.php:415
+msgid "Client email"
+msgstr "ایمیل کاربر"
+
+#: includes/admin/class-settings.php:409
+msgid "Client first name"
+msgstr "نام کوچک کاربر"
+
+#: includes/admin/class-settings.php:412
+msgid "Client last name"
+msgstr "نام خانوادگی کاربر"
+
+#: includes/admin/class-settings.php:406
+msgid "Client Name"
+msgstr "نام کاربری کاربر"
+
+#: includes/class-functions.php:46
+msgid "Close"
+msgstr "بستن"
+
+#: includes/class-functions.php:49
+msgid "Close by admin"
+msgstr "بستن توسط مدیر سایت"
+
+#: includes/class-functions.php:52
+msgid "Close by agent"
+msgstr "بستن توسط  پشتیبان"
+
+#: includes/class-functions.php:55
+msgid "Close by user"
+msgstr "بستن توسط  کاربر"
+
+#: includes/admin/class-settings.php:436
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/class-awesome-support-field.php:88
+msgid "Enter OTP number "
+msgstr "رمز عبور یک بار مصرف را وارد کنید"
+
+#: includes/class-awesome-support-field.php:85
+msgid "Error"
+msgstr "خطا"
+
+#: includes/admin/class-settings.php:111
+msgid "Force enter phone number  "
+msgstr "اجبار کاربران برای دریافت شماره همراه"
+
+#: includes/admin/class-settings.php:112
+msgid "Force users to Enter phone number   "
+msgstr "اجبار کاربران برای دریافت شماره همراه"
+
+#: includes/admin/class-settings.php:119
+msgid "Force users to phone number confirmation "
+msgstr "اجبار کاربران برای تایید موبایل"
+
+#: includes/admin/class-settings.php:118
+msgid "Forcing OTP "
+msgstr "رمز عبور یک بار مصرف اجباری"
+
+#: includes/class-functions.php:72
+msgid "hold"
+msgstr "  نگهداری"
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://payamito.com/"
+msgstr "https://payamito.com/"
+
+#: includes/admin/class-settings.php:161
+msgid ""
+"If the user confirms his phone number number once, he does not need to "
+"confirm his phone number number again in the next tickets"
+msgstr ""
+"اگر کاربر یک بار شماره تلفن خود را تایید کرد، نیازی به تایید مجدد شماره تلفن "
+"خود در تیکت های بعدی ندارد"
+
+#: includes/admin/class-settings.php:576
+msgid "If you use pattern to send OTP sms pattern id can not is empty"
+msgstr ""
+"اگر از الگو برای ارسال پیامک رمز عبور یک بار مصرف استفاده می کنید، شناسه "
+"الگوی نمی تواند خالی باشد"
+
+#: includes/admin/class-settings.php:588
+msgid ""
+"If you use pattern to send OTP sms. Please create a pattern for sending SMS"
+msgstr ""
+"اگر از الگوی برای ارسال اس ام اس رمز عبور یک بار مصرف   استفاده کنید. لطفا "
+"یک الگو برای ارسال پیامک ایجاد کنید"
+
+#: includes/admin/class-settings.php:105 includes/admin/class-settings.php:171
+msgid "Message"
+msgstr "پیام"
+
+#: includes/admin/class-settings.php:59
+msgid "Meta key"
+msgstr "متاکی"
+
+#: includes/admin/class-settings.php:251 includes/admin/class-settings.php:306
+msgid "Meta keys"
+msgstr "متاکی ها"
+
+#: plugin.php:230
+msgid "Minimum php required version 7.0.0 or higher is required"
+msgstr "حداقل php مورد نیاز نسخه 7.0.0 یا بالاتر مورد نیاز است"
+
+#: includes/gateway/api/class-send.php:56
+msgid "Not Fount Message"
+msgstr "پیامی از سرور یافت نشد"
+
+#: includes/admin/class-settings.php:127
+msgid "Number of OTP code"
+msgstr "تعداد ارقام رمز عبور یک بار مصرف "
+
+#: includes/admin/class-settings.php:128
+msgid "Number of OTP code that you want send for user"
+msgstr "تعداد ارقام رمز عبور یک بار مصرف که برای کار ارسال می شود"
+
+#: includes/admin/class-settings.php:159
+msgid "Once"
+msgstr "یکبار"
+
+#: includes/class-functions.php:37
+msgid "Open"
+msgstr "بازکردن تیکت جدید"
+
+#: includes/admin/class-settings.php:45 includes/admin/class-settings.php:50
+#: includes/admin/class-settings.php:91
+msgid "OTP"
+msgstr " رمز عبور یک بار مصرف "
+
+#: includes/class-awesome-support-field.php:82
+#: includes/class-awesome-support-field.php:83
+msgid "OTP is wrong"
+msgstr " رمز عبور یک بار مصرف اشتباه است"
+
+#: includes/admin/class-settings.php:580
+msgid "OTP pattern id must be a number"
+msgstr "شناسه الگوی  رمز عبور یک بار مصرف باید یک عدد باشد"
+
+#: includes/admin/class-settings.php:584
+msgid "OTP pattern id must be at least 4 characters must be a number"
+msgstr ""
+"شناسه الگوی  رمز عبور یک بار مصرف باید حداقل 4 کاراکتر باشد باید یک عدد باشد"
+
+#: includes/admin/class-settings.php:67 includes/admin/class-settings.php:453
+msgid "Pattern"
+msgstr "الگو"
+
+#: includes/admin/class-settings.php:81
+msgid "Pattern "
+msgstr "الگو"
+
+#: includes/admin/class-settings.php:537
+#, fuzzy
+#| msgid "Pattern code"
+msgid "Pattern ID"
+msgstr "شناسه الگو"
+
+#: includes/admin/class-settings.php:74
+msgid "Pattern ID "
+msgstr "شناسه الگو"
+
+#. Author of the plugin
+msgid "Payamito"
+msgstr "پیامیتو"
+
+#. Name of the plugin
+msgid "Payamito:Awesome Support"
+msgstr "افزونه ارسال پیامک پیامیتو نسخه تیکت"
+
+#: includes/admin/class-settings.php:478
+msgid "phone number"
+msgstr "شماره تلفن"
+
+#: includes/admin/class-settings.php:486
+msgid "Phone number "
+msgstr "شماره تلفن"
+
+#: includes/class-awesome-support-field.php:84
+msgid "phone_number number is incorrct"
+msgstr "شماره تلفن نادرست است"
+
+#: includes/admin/class-settings.php:572
+msgid "Please enter a metakey to save user phone number"
+msgstr "لطفاً یک متاکی برای ذخیره شماره تلفن کاربر وارد کنید"
+
+#: includes/class-functions.php:70
+msgid "processing"
+msgstr "درحال پردازش"
+
+#: includes/class-functions.php:40
+msgid "Reply"
+msgstr "پاسخ"
+
+#: includes/admin/class-settings.php:60
+msgid ""
+"Save the user‍‍‍‍‍‍‍ phone number number after confirming it in this meta key"
+msgstr "شماره تلفن کاربر را پس از تأیید آن در این متا کلید ذخیره کنید"
+
+#: includes/class-awesome-support-field.php:89
+msgid "Second"
+msgstr "ثانیه"
+
+#: includes/admin/class-settings.php:462
+msgid "Select tag"
+msgstr "انتخاب برچسب"
+
+#: includes/admin/class-settings.php:143
+msgid "Send Again"
+msgstr "ارسال مجدد"
+
+#: includes/admin/class-settings.php:531
+msgid "Send by pattern "
+msgstr "ارسال براساس الگو"
+
+#: includes/class-awesome-support-field.php:80
+msgid "Send OTP failed"
+msgstr "ارسال رمز عبور یک بار مصرف انجام نشد"
+
+#: includes/class-awesome-support-field.php:79
+msgid "Send OTP success"
+msgstr "ارسال  رمز عبور یک بار مصرف موفقیت آمیز بود"
+
+#: includes/class-awesome-support-field.php:81
+msgid "Send request failed please contact with support team "
+msgstr "درخواست ارسال انجام نشد لطفا با تیم پشتیبانی تماس بگیرید"
+
+#: includes/admin/class-settings.php:356 includes/admin/class-settings.php:397
+msgid "Site name"
+msgstr "عنوان  یا نام سایت"
+
+#: includes/admin/class-settings.php:543
+msgid "SMS "
+msgstr "پیامک"
+
+#: includes/admin/class-settings.php:348
+msgid "SMS change status"
+msgstr "تغییر وضعیت تیکت "
+
+#: includes/class-awesome-support-field.php:86
+msgid "Success"
+msgstr "موفق"
+
+#: includes/gateway/api/class-send.php:25
+msgid "success"
+msgstr "موفق"
+
+#: includes/admin/class-settings.php:87 includes/admin/class-settings.php:560
+msgid "Tags"
+msgstr "برچسب ها"
+
+#. Description of the plugin
+msgid "This plugin gives you the ability to send SMS"
+msgstr "این افزونه به شما امکان ارسال پیامک برای افرونه تیکت را می دهد"
+
+#: includes/admin/class-settings.php:370
+msgid "Ticket admin link"
+msgstr "لینک ادمین تیکت"
+
+#: includes/admin/class-settings.php:371
+msgid "Ticket admin url"
+msgstr "پینود ادمین تیکت"
+
+#: includes/admin/class-settings.php:394
+msgid "Ticket id"
+msgstr "شناسه تیکت"
+
+#: includes/admin/class-settings.php:430
+msgid "Ticket link"
+msgstr "لینک تیکت"
+
+#: includes/admin/class-settings.php:433
+msgid "Ticket url"
+msgstr "پیوند تیکت"
+
+#: includes/admin/class-settings.php:237
+msgid "User"
+msgstr "کاربر"
+
+#: includes/admin/class-settings.php:252
+#, fuzzy
+#| msgid ""
+#| "Customer meta key\n"
+#| "\t\t\t\t\t plugin"
+msgid ""
+"User meta key\n"
+"\t\t\t\t\t plugin"
+msgstr "متاکی کاربر"
+
+#: includes/admin/class-settings.php:241
+msgid "User Ticket"
+msgstr "پیام تیکت کاربر "
+
+#: includes/class-awesome-support-field.php:87
+msgid "Warning"
+msgstr "خطا"
+
+#: includes/admin/class-settings.php:144
+msgid "When you want the user to re-request OTP."
+msgstr ""
+"زمانی که می خواهید کاربر دوباره درخواست  رمز عبور یک بار مصرف  را بدهد."
+
+#: includes/admin/class-settings.php:92
+msgid "Wordpress title"
+msgstr "نام یا عنوان سایت"
+
+#: includes/admin/class-settings.php:594
+msgid ""
+"You created a pattern for sending OTP but did not specify a value .Please "
+"select a valid value from the drop-down box"
+msgstr ""
+"شما یک الگو برای ارسال  رمز عبور یک بار مصرف ایجاد کردید اما مقداری را مشخص "
+"نکردید. لطفاً یک مقدار معتبر از کادر کشویی انتخاب کنید."
+
+#: includes/admin/class-settings.php:98 includes/admin/class-settings.php:468
+msgid "Your tag"
+msgstr "برچسب شما"

@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito:Awesome Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-13 23:44+0000\n"
+"PO-Revision-Date: 2022-01-14 00:14+0000\n"
+"Last-Translator: \n"
+"Language-Team: فارسی\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3\n"
+"X-Domain: payamito-awesome-support"
+
+#: includes/admin/class-settings.php:181
+msgid "  Agent first name"
+msgstr "نام کوچک پشتیبان"
+
+#: includes/admin/class-settings.php:191
+msgid "  Ticket link"
+msgstr "لینک تیکت"
+
+#: includes/admin/class-settings.php:196
+msgid " Admin email"
+msgstr "ایمیل ادمین"
+
+#: includes/admin/class-settings.php:182
+msgid " Agent last name"
+msgstr "نام خانوادگی پشتیبان"
+
+#: includes/admin/class-settings.php:189
+msgid " Author last name"
+msgstr "نام خانوادگی نویسنده"
+
+#: includes/admin/class-settings.php:195
+msgid " Date"
+msgstr "تاریخ"
+
+#: includes/class-plugins-required.php:64
+msgid ""
+" Plugin Payamito:Awesome Support requires the installation of Awesome "
+"Support and Payamito core "
+msgstr ""
+"افزونه ارسال پیامک پیامیتو نسخه تیکت برای نصب و کارکرد صحیح نیاز به افزونه "
+"هسته پیامیتو و افزونه تیکت است"
+
+#: includes/admin/class-settings.php:178
+msgid " Ticket id"
+msgstr "شناسه تیکت"
+
+#: includes/admin/class-settings.php:192
+msgid " Ticket url"
+msgstr "پیوند تیکت"
+
+#: includes/admin/class-settings.php:186
+msgid " User email"
+msgstr "ایمیل کاربر"
+
+#: includes/admin/class-settings.php:184
+msgid " User first name"
+msgstr "نام کوچک کاربر"
+
+#: includes/admin/class-settings.php:185
+msgid " User last name"
+msgstr "نام خانوادگی کاربر"
+
+#: includes/admin/class-settings.php:183
+msgid " User name"
+msgstr "نام کاربری"
+
+#: plugin.php:216
+#, php-format
+msgid ""
+"%s requires Awesome Support to be active. Please activate the awesome "
+"support plugin first."
+msgstr ""
+"افزونه ارسال پیامک پیامیتو نسخه تیکت برای نصب و کارکرد صحیح نیاز به افزونه "
+"تیکت است . لطفا افزونه تیکت فعال کنید"
+
+#: plugin.php:221
+#, php-format
+msgid ""
+"%s requires Awesome Support version %s or greater. Please update the awesome "
+"support plugin first."
+msgstr ""
+"افزونه ارسال پیامک پیامیتو نسخه تیکت برای نصب و کارکرد صحیح نیاز به افزونه "
+"تیکت است . لطفا افزونه تیکت فعال کنید"
+
+#: includes/admin/class-settings.php:78 includes/admin/class-settings.php:105
+#: includes/admin/class-settings.php:159 includes/admin/class-settings.php:330
+msgid "Active"
+msgstr "فعال"
+
+#: includes/admin/class-settings.php:69
+msgid "Admin"
+msgstr "مدیر"
+
+#: includes/admin/class-settings.php:262
+msgid "Admin email"
+msgstr "ایمیل ادمین"
+
+#: includes/admin/class-settings.php:73
+msgid "Administrator Message"
+msgstr "پیام مدیر"
+
+#: includes/admin/class-settings.php:150
+msgid "Aganet meta key"
+msgstr "متاکی پشتیبان"
+
+#: includes/admin/class-settings.php:141
+msgid "Agent"
+msgstr "پشتیبان"
+
+#: includes/admin/class-settings.php:223
+msgid "Agent first name"
+msgstr "نام کوچک پشتیبان"
+
+#: includes/admin/class-settings.php:226
+msgid "Agent last name"
+msgstr "نام خانوادگی پشتیبان"
+
+#: includes/admin/class-settings.php:180
+msgid "Agent name"
+msgstr "نام کاربری پشتیبان"
+
+#: includes/admin/class-settings.php:145
+msgid "Agent Ticket"
+msgstr "تیکت پشتیبان"
+
+#: includes/admin/class-settings.php:79
+msgid "Are you want send sms to admin "
+msgstr "آیا می خواهید برای ادمین پیامک بفرستید"
+
+#: includes/admin/class-settings.php:160
+msgid "Are you want send sms to agents "
+msgstr "آیا می خواهید برای پشتیبان پیامک بفرستید"
+
+#: includes/admin/class-settings.php:106
+msgid "Are you want send sms to user "
+msgstr "آیا می خواهید برای کاربر پیامک بفرستید"
+
+#: includes/admin/class-settings.php:342
+msgid "Assign"
+msgstr "اختصاص دادن"
+
+#: includes/admin/class-settings.php:190 includes/admin/class-settings.php:250
+msgid "Author email"
+msgstr "ایمیل نویسنده"
+
+#: includes/admin/class-settings.php:188 includes/admin/class-settings.php:244
+msgid "Author first name"
+msgstr "نام کوچک نویسنده"
+
+#: includes/admin/class-settings.php:247
+msgid "Author last name"
+msgstr "نام خانوادگی نویسنده"
+
+#: includes/admin/class-settings.php:187 includes/admin/class-settings.php:241
+msgid "Author name"
+msgstr "نام کاربری نویسنده"
+
+#: includes/admin/class-settings.php:39
+msgid "Awesome Support"
+msgstr "افزونه تیکت"
+
+#: plugin.php:157 plugin.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr "Cheatin&#8217; huh?"
+
+#: includes/admin/class-settings.php:238
+msgid "Client email"
+msgstr "ایمیل کاربر"
+
+#: includes/admin/class-settings.php:232
+msgid "Client first name"
+msgstr "نام کوچک کاربر"
+
+#: includes/admin/class-settings.php:235
+msgid "Client last name"
+msgstr "نام خانوادگی کاربر"
+
+#: includes/admin/class-settings.php:229
+msgid "Client Name"
+msgstr "نام کاربری کاربر"
+
+#: includes/admin/class-settings.php:339
+msgid "Close"
+msgstr "بستن"
+
+#: includes/tags.php:16
+msgid "Converts into agent name (WordPress Display Name)"
+msgstr ""
+
+#: includes/tags.php:52
+msgid "Converts into author e-mail address"
+msgstr ""
+
+#: includes/tags.php:40
+msgid "Converts into author name (WordPress Display Name)"
+msgstr ""
+
+#: includes/tags.php:28
+msgid "Converts into client name (WordPress Display Name)"
+msgstr ""
+
+#: includes/tags.php:76
+msgid "Converts into current date"
+msgstr ""
+
+#: includes/tags.php:56
+msgid "Converts into current ticket title"
+msgstr ""
+
+#: includes/tags.php:20
+msgid "Converts into the first name of the agent"
+msgstr ""
+
+#: includes/tags.php:44
+msgid "Converts into the first name of the author"
+msgstr ""
+
+#: includes/tags.php:32
+msgid "Converts into the first name of the client"
+msgstr ""
+
+#: includes/tags.php:24
+msgid "Converts into the last name of the agent"
+msgstr ""
+
+#: includes/tags.php:48
+msgid "Converts into the last name of the author"
+msgstr ""
+
+#: includes/tags.php:36
+msgid "Converts into the last name of the client"
+msgstr ""
+
+#: includes/tags.php:8
+msgid "Converts into ticket ID"
+msgstr ""
+
+#: includes/tags.php:12
+msgid "Converts into website name"
+msgstr ""
+
+#: includes/tags.php:80
+#, php-format
+msgid "Converts into WordPress admin e-mail (<em>currently: %s</em>)"
+msgstr ""
+
+#: includes/admin/class-settings.php:112
+msgid ""
+"Customer meta key\n"
+"\t\t\t\t\t plugin"
+msgstr "متاکی کاربر"
+
+#: includes/admin/class-settings.php:259
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/tags.php:60
+msgid "Displays a link to the ticket"
+msgstr "پیوندی به تیکت نمایش داده می شود"
+
+#: includes/tags.php:68
+msgid "Displays a link to ticket details in admin (for agents)"
+msgstr ""
+
+#: includes/tags.php:72
+msgid ""
+"Displays the URL <strong>only</strong> (not a link link) to ticket details "
+"in admin (for agents)"
+msgstr ""
+
+#: includes/tags.php:64
+msgid "Displays the URL <strong>only</strong> (not a link) to the ticket"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://payamito.com/"
+msgstr "https://payamito.com/"
+
+#: includes/admin/class-settings.php:45
+msgid "Message"
+msgstr "پیام"
+
+#: includes/admin/class-settings.php:111 includes/admin/class-settings.php:149
+msgid "Meta keys"
+msgstr "متاکی ها"
+
+#: plugin.php:209
+msgid "Minimum php required version 7.0.0 or higher is required"
+msgstr "حداقل php مورد نیاز نسخه 7.0.0 یا بالاتر مورد نیاز است"
+
+#: includes/gateway/api/class-send.php:52
+msgid "Not Fount Message"
+msgstr "پیامی از سرور یافت نشد"
+
+#: includes/admin/class-settings.php:333
+msgid "Open"
+msgstr "بازکردن تیکت جدید"
+
+#: includes/admin/class-settings.php:276
+msgid "Pattern"
+msgstr "الگو"
+
+#: includes/admin/class-settings.php:368
+msgid "Pattern code"
+msgstr "شناسه الگو"
+
+#. Author of the plugin
+msgid "Payamito"
+msgstr "پیامیتو"
+
+#. Name of the plugin
+msgid "Payamito:Awesome Support"
+msgstr "پیامیتو تیکت"
+
+#: includes/class-plugins-required.php:67
+msgid "Payamito:Awesome Support Install Plugins"
+msgstr "نصب افزونه های ضروری پیامیتو نسخه تیکت"
+
+#: includes/class-plugins-required.php:66
+msgid "Payamito:Awesome Support Install Required Plugins"
+msgstr "نصب افزونه های ضروری پیامیتو نسخه تیکت"
+
+#: includes/admin/class-settings.php:302
+msgid "phone number"
+msgstr "شماره تلفن"
+
+#: includes/admin/class-settings.php:310
+msgid "Phone number "
+msgstr "شماره تلفن"
+
+#: includes/admin/class-settings.php:336
+msgid "Reply"
+msgstr "پاسخ"
+
+#: includes/admin/class-settings.php:286
+msgid "Select tag"
+msgstr "انتخاب برچسب"
+
+#: includes/admin/class-settings.php:362
+msgid "Send by pattern "
+msgstr "ارسال براساس الگو"
+
+#: includes/admin/class-settings.php:179 includes/admin/class-settings.php:220
+msgid "Site name"
+msgstr "عنوان  یا نام سایت"
+
+#: includes/admin/class-settings.php:374
+msgid "SMS "
+msgstr "پیامک"
+
+#: includes/gateway/api/class-send.php:21
+msgid "success"
+msgstr "موفق"
+
+#: includes/admin/class-settings.php:392
+msgid "Tags"
+msgstr "برچسب ها"
+
+#. Description of the plugin
+msgid "This plugin gives you the ability to send SMS"
+msgstr "این افزونه به شما امکان ارسال پیامک برای افرونه تیکت را می دهد"
+
+#: includes/admin/class-settings.php:193
+msgid "Ticket admin link"
+msgstr "لینک ادمین تیکت"
+
+#: includes/admin/class-settings.php:194
+msgid "Ticket admin url"
+msgstr "پینود ادمین تیکت"
+
+#: includes/admin/class-settings.php:217
+msgid "Ticket id"
+msgstr "شناسه تیکت"
+
+#: includes/admin/class-settings.php:253
+msgid "Ticket link"
+msgstr "لینک تیکت"
+
+#: includes/admin/class-settings.php:256
+msgid "Ticket url"
+msgstr "پیوند تیکت"
+
+#: includes/admin/class-settings.php:97
+msgid "User"
+msgstr "کاربر"
+
+#: includes/admin/class-settings.php:101
+msgid "User Ticket"
+msgstr "کاربر تیکت"
+
+#: plugin.php:299
+#, php-format
+msgid ""
+"You need Awesome Support to activate this addon. Please <a href=\"%s\" "
+"target=\"_blank\">install Awesome Support</a> before continuing."
+msgstr ""
+"افزونه ارسال پیامک پیامیتو نسخه تیکت برای نصب و کارکرد صحیح نیاز به افزونه "
+"تیکت است . لطفا افزونه تیکت فعال کنید"
+
+#: includes/admin/class-settings.php:292
+msgid "Your tag"
+msgstr "برچسب شما"

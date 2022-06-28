@@ -1,0 +1,403 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Payamito:Awesome Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-13 23:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.3\n"
+"X-Domain: payamito-awesome-support"
+
+#: includes/admin/class-settings.php:181
+msgid "  Agent first name"
+msgstr ""
+
+#: includes/admin/class-settings.php:191
+msgid "  Ticket link"
+msgstr ""
+
+#: includes/admin/class-settings.php:196
+msgid " Admin email"
+msgstr ""
+
+#: includes/admin/class-settings.php:182
+msgid " Agent last name"
+msgstr ""
+
+#: includes/admin/class-settings.php:189
+msgid " Author last name"
+msgstr ""
+
+#: includes/admin/class-settings.php:195
+msgid " Date"
+msgstr ""
+
+#: includes/class-plugins-required.php:64
+msgid ""
+" Plugin Payamito:Awesome Support requires the installation of Awesome "
+"Support and Payamito core "
+msgstr ""
+
+#: includes/admin/class-settings.php:178
+msgid " Ticket id"
+msgstr ""
+
+#: includes/admin/class-settings.php:192
+msgid " Ticket url"
+msgstr ""
+
+#: includes/admin/class-settings.php:186
+msgid " User email"
+msgstr ""
+
+#: includes/admin/class-settings.php:184
+msgid " User first name"
+msgstr ""
+
+#: includes/admin/class-settings.php:185
+msgid " User last name"
+msgstr ""
+
+#: includes/admin/class-settings.php:183
+msgid " User name"
+msgstr ""
+
+#: plugin.php:216
+#, php-format
+msgid ""
+"%s requires Awesome Support to be active. Please activate the awesome "
+"support plugin first."
+msgstr ""
+
+#: plugin.php:221
+#, php-format
+msgid ""
+"%s requires Awesome Support version %s or greater. Please update the awesome "
+"support plugin first."
+msgstr ""
+
+#: includes/admin/class-settings.php:78 includes/admin/class-settings.php:105
+#: includes/admin/class-settings.php:159 includes/admin/class-settings.php:330
+msgid "Active"
+msgstr ""
+
+#: includes/admin/class-settings.php:69
+msgid "Admin"
+msgstr ""
+
+#: includes/admin/class-settings.php:262
+msgid "Admin email"
+msgstr ""
+
+#: includes/admin/class-settings.php:73
+msgid "Administrator Message"
+msgstr ""
+
+#: includes/admin/class-settings.php:150
+msgid "Aganet meta key"
+msgstr ""
+
+#: includes/admin/class-settings.php:141
+msgid "Agent"
+msgstr ""
+
+#: includes/admin/class-settings.php:223
+msgid "Agent first name"
+msgstr ""
+
+#: includes/admin/class-settings.php:226
+msgid "Agent last name"
+msgstr ""
+
+#: includes/admin/class-settings.php:180
+msgid "Agent name"
+msgstr ""
+
+#: includes/admin/class-settings.php:145
+msgid "Agent Ticket"
+msgstr ""
+
+#: includes/admin/class-settings.php:79
+msgid "Are you want send sms to admin "
+msgstr ""
+
+#: includes/admin/class-settings.php:160
+msgid "Are you want send sms to agents "
+msgstr ""
+
+#: includes/admin/class-settings.php:106
+msgid "Are you want send sms to user "
+msgstr ""
+
+#: includes/admin/class-settings.php:342
+msgid "Assign"
+msgstr ""
+
+#: includes/admin/class-settings.php:190 includes/admin/class-settings.php:250
+msgid "Author email"
+msgstr ""
+
+#: includes/admin/class-settings.php:188 includes/admin/class-settings.php:244
+msgid "Author first name"
+msgstr ""
+
+#: includes/admin/class-settings.php:247
+msgid "Author last name"
+msgstr ""
+
+#: includes/admin/class-settings.php:187 includes/admin/class-settings.php:241
+msgid "Author name"
+msgstr ""
+
+#: includes/admin/class-settings.php:39
+msgid "Awesome Support"
+msgstr ""
+
+#: plugin.php:157 plugin.php:171
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/admin/class-settings.php:238
+msgid "Client email"
+msgstr ""
+
+#: includes/admin/class-settings.php:232
+msgid "Client first name"
+msgstr ""
+
+#: includes/admin/class-settings.php:235
+msgid "Client last name"
+msgstr ""
+
+#: includes/admin/class-settings.php:229
+msgid "Client Name"
+msgstr ""
+
+#: includes/admin/class-settings.php:339
+msgid "Close"
+msgstr ""
+
+#: includes/tags.php:16
+msgid "Converts into agent name (WordPress Display Name)"
+msgstr ""
+
+#: includes/tags.php:52
+msgid "Converts into author e-mail address"
+msgstr ""
+
+#: includes/tags.php:40
+msgid "Converts into author name (WordPress Display Name)"
+msgstr ""
+
+#: includes/tags.php:28
+msgid "Converts into client name (WordPress Display Name)"
+msgstr ""
+
+#: includes/tags.php:76
+msgid "Converts into current date"
+msgstr ""
+
+#: includes/tags.php:56
+msgid "Converts into current ticket title"
+msgstr ""
+
+#: includes/tags.php:20
+msgid "Converts into the first name of the agent"
+msgstr ""
+
+#: includes/tags.php:44
+msgid "Converts into the first name of the author"
+msgstr ""
+
+#: includes/tags.php:32
+msgid "Converts into the first name of the client"
+msgstr ""
+
+#: includes/tags.php:24
+msgid "Converts into the last name of the agent"
+msgstr ""
+
+#: includes/tags.php:48
+msgid "Converts into the last name of the author"
+msgstr ""
+
+#: includes/tags.php:36
+msgid "Converts into the last name of the client"
+msgstr ""
+
+#: includes/tags.php:8
+msgid "Converts into ticket ID"
+msgstr ""
+
+#: includes/tags.php:12
+msgid "Converts into website name"
+msgstr ""
+
+#: includes/tags.php:80
+#, php-format
+msgid "Converts into WordPress admin e-mail (<em>currently: %s</em>)"
+msgstr ""
+
+#: includes/admin/class-settings.php:112
+msgid ""
+"Customer meta key\n"
+"\t\t\t\t\t plugin"
+msgstr ""
+
+#: includes/admin/class-settings.php:259
+msgid "Date"
+msgstr ""
+
+#: includes/tags.php:60
+msgid "Displays a link to the ticket"
+msgstr ""
+
+#: includes/tags.php:68
+msgid "Displays a link to ticket details in admin (for agents)"
+msgstr ""
+
+#: includes/tags.php:72
+msgid ""
+"Displays the URL <strong>only</strong> (not a link link) to ticket details "
+"in admin (for agents)"
+msgstr ""
+
+#: includes/tags.php:64
+msgid "Displays the URL <strong>only</strong> (not a link) to the ticket"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://payamito.com/"
+msgstr ""
+
+#: includes/admin/class-settings.php:45
+msgid "Message"
+msgstr ""
+
+#: includes/admin/class-settings.php:111 includes/admin/class-settings.php:149
+msgid "Meta keys"
+msgstr ""
+
+#: plugin.php:209
+msgid "Minimum php required version 7.0.0 or higher is required"
+msgstr ""
+
+#: includes/gateway/api/class-send.php:52
+msgid "Not Fount Message"
+msgstr ""
+
+#: includes/admin/class-settings.php:333
+msgid "Open"
+msgstr ""
+
+#: includes/admin/class-settings.php:276
+msgid "Pattern"
+msgstr ""
+
+#: includes/admin/class-settings.php:368
+msgid "Pattern code"
+msgstr ""
+
+#. Author of the plugin
+msgid "Payamito"
+msgstr ""
+
+#. Name of the plugin
+msgid "Payamito:Awesome Support"
+msgstr ""
+
+#: includes/class-plugins-required.php:67
+msgid "Payamito:Awesome Support Install Plugins"
+msgstr ""
+
+#: includes/class-plugins-required.php:66
+msgid "Payamito:Awesome Support Install Required Plugins"
+msgstr ""
+
+#: includes/admin/class-settings.php:302
+msgid "phone number"
+msgstr ""
+
+#: includes/admin/class-settings.php:310
+msgid "Phone number "
+msgstr ""
+
+#: includes/admin/class-settings.php:336
+msgid "Reply"
+msgstr ""
+
+#: includes/admin/class-settings.php:286
+msgid "Select tag"
+msgstr ""
+
+#: includes/admin/class-settings.php:362
+msgid "Send by pattern "
+msgstr ""
+
+#: includes/admin/class-settings.php:179 includes/admin/class-settings.php:220
+msgid "Site name"
+msgstr ""
+
+#: includes/admin/class-settings.php:374
+msgid "SMS "
+msgstr ""
+
+#: includes/gateway/api/class-send.php:21
+msgid "success"
+msgstr ""
+
+#: includes/admin/class-settings.php:392
+msgid "Tags"
+msgstr ""
+
+#. Description of the plugin
+msgid "This plugin gives you the ability to send SMS"
+msgstr ""
+
+#: includes/admin/class-settings.php:193
+msgid "Ticket admin link"
+msgstr ""
+
+#: includes/admin/class-settings.php:194
+msgid "Ticket admin url"
+msgstr ""
+
+#: includes/admin/class-settings.php:217
+msgid "Ticket id"
+msgstr ""
+
+#: includes/admin/class-settings.php:253
+msgid "Ticket link"
+msgstr ""
+
+#: includes/admin/class-settings.php:256
+msgid "Ticket url"
+msgstr ""
+
+#: includes/admin/class-settings.php:97
+msgid "User"
+msgstr ""
+
+#: includes/admin/class-settings.php:101
+msgid "User Ticket"
+msgstr ""
+
+#: plugin.php:299
+#, php-format
+msgid ""
+"You need Awesome Support to activate this addon. Please <a href=\"%s\" "
+"target=\"_blank\">install Awesome Support</a> before continuing."
+msgstr ""
+
+#: includes/admin/class-settings.php:292
+msgid "Your tag"
+msgstr ""
